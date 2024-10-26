@@ -40,7 +40,7 @@
     3.包含是系統管理員登錄後才可以進行相關操作。
 ![image](https://github.com/chengyuwho/uml_0628/blob/3b8764dceefd0d9f9c091dd78ca37034513e1e2c/%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E7%94%A8%E4%BE%8B.jpg)
 #### 3.建構完整的用例圖。
-![image]()
+![image](https://github.com/chengyuwho/uml_0628/blob/01412ea51201cad64aaa1c78cb4dab260c8b4275/%E5%BB%BA%E6%A7%8B%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E4%BE%8B%E5%9C%96.jpg)
 ### 六.實驗結果與分析
 #### 1.掌握用例關聯(繼承)、泛比、包含、擴展的使用，可以熟練運用PowerDesigner16開發環境繪畫用例圖。
 #### 2.包含(include)、擴展(extend)、泛化(Inheritance)的區別:
